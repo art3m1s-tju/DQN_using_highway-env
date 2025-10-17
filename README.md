@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DQN在highway-env环境下的实现
 
 这个项目实现了使用Deep Q-Network (DQN)算法在highway-env环境中训练自动驾驶智能体。项目使用stable-baselines3框架实现DQN算法，并在highway-fast-v0环境中进行了实验。
