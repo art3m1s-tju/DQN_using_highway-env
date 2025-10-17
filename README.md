@@ -1,6 +1,6 @@
-# DQN在highway-env环境下的实现
+# 使用DQN在highway-env环境下训练一个自动驾驶智能体
 
-这个项目实现了使用Deep Q-Network (DQN)算法在highway-env环境中训练自动驾驶智能体。项目使用stable-baselines3框架实现DQN算法，并在highway-fast-v0环境中进行了实验。
+该项目实现了使用Deep Q-Network (DQN)算法在highway-env环境中训练自动驾驶智能体。项目使用stable-baselines3框架实现DQN算法，并在highway-fast-v0环境中进行了实验。
 
 ## 项目结构
 
@@ -57,10 +57,6 @@ tensorboard --logdir=Project/logs
 ## 贡献指南
 
 欢迎提交Issues和Pull Requests来改进这个项目。
-
-## 许可证
-
-MIT License
 =======
 # DQN_using_highway-env
 该项目是 "Autonomous-Driving-RL-Agents" 的核心部分之一，专注于使用深度Q网络 (Deep Q-Network, DQN) 算法来训练一个自动驾驶智能体，智能体在 highway-env 模拟环境中学习驾驶，目标是在多车道的高速公路上实现高效、安全的自主导航。
